@@ -1,0 +1,48 @@
+
+<resources>
+    <string name="app_name">D.tube</string>
+    <string name="subscribe">Abonieren</string>
+    <string name="unsubscribe">Deabonieren</string>
+    <string name="video_error">Error loading video</string>
+    <string name="login">Anmelden</string>
+    <string name="login_comment">Melde dich an um zu kommentieren</string>
+    <string name="comment_placeholder">Öffentlich kommentieren</string>
+    <string name="reply">Antworten</string>
+    <string name="subscribers">Abonenten</string>
+    <string name="videos_by">Videos von</string>
+    <string name="open">Öffnen</string>
+    <string name="close">Schließen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="about">Über</string>
+    <string name="login_dtube">Anmelden bei d.tube</string>
+    <string name="home">Home</string>
+    <string name="donate">Spende</string>
+    <string name="donate_summary">Wähle deine bevorzugte Zahlungsart um einen Betrag zum Entwickler der App zu senden. Deine Untertützung wird geschätzt ♥♥♥</string>
+    <string name="not_logged_in">Nicht angemeldet</string>
+
+    <string name="my_profile">Mein Profil</string>
+    <string name="feed">Meü</string>            //TODO besseres wort für feed
+    <string name="feed_subscribed">Abos</string>
+    <string name="feed_hot">Hot Videos</string> //TODO translate feed_hot
+    <string name="feed_trending">Trends</string>
+    <string name="feed_new">Neue Videos</string>
+    <string name="feed_history">Nochmal ansehen</string>
+
+    <string name="copied">In die Zwischenablage kopieren</string>
+    <string name="sub_item">Extras</string>
+    <string name="subscriptions">Abonierte Kanäle</string>
+    <string name="username">Benutzernahme</string>
+    <string name="password">Steemit posting key (not master password)</string>
+    <string name="search">Suche</string>
+
+    <string name="update_now">Jetzt aktualisieren</string>
+    <string name="later">Später aktualisieren</string>
+    <string name="update_available">Aktualisierung verfügbar</string>
+    <string name="update_summary">Aktualisiere die app um neue Funktionen zu nutzen!</string>
+    <string name="do_not_show">Nicht nocheinmal anzeigen</string>
+    <string name="wrong_qr_code">Klice zuert auf den QR-Code auf Steemit befor du scannst</string>
+    <string name="no_data_qr_code">No data found</string>
+
+    <string name="replies">Antworten anzeigen</string>
+</resources>
+
