@@ -21,7 +21,7 @@
     <string name="not_logged_in">Nicht angemeldet</string>
 
     <string name="my_profile">Mein Profil</string>
-    <string name="feed">Meü</string>            //TODO besseres wort für feed
+    <string name="feed">Videos</string>            //TODO besseres wort für feed
     <string name="feed_subscribed">Abos</string>
     <string name="feed_hot">Hot Videos</string> //TODO translate feed_hot
     <string name="feed_trending">Trends</string>
@@ -32,7 +32,7 @@
     <string name="sub_item">Extras</string>
     <string name="subscriptions">Abonierte Kanäle</string>
     <string name="username">Benutzernahme</string>
-    <string name="password">Steemit posting key (not master password)</string>
+    <string name="password">Steemit posting key (nicht master password)</string>
     <string name="search">Suche</string>
 
     <string name="update_now">Jetzt aktualisieren</string>
